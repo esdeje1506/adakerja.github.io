@@ -17,7 +17,7 @@ const Signup = () => {
                 <Link to="/">
                     <div className="flex">
                         <img
-                            className="mr-3 h-12 w-fit"
+                            className="mr-3 h-12 w-12"
                             src={logoWeb}
                             alt=""
                         />
@@ -26,7 +26,7 @@ const Signup = () => {
                 </Link>
             </nav>
             <div className="mt-16 w-vw p-1">
-                <div className="mx-auto h-auto w-4/12 rounded-lg border bg-white p-2.5 font-sans shadow-lg">
+                <div className="mx-auto h-auto w-4/12 min-w-64 rounded-lg border bg-white p-2.5 font-sans shadow-lg">
                     <h1 className="m-0 mb-3 text-2xl font-bold">Sign-Up</h1>
                     <form>
                         <label className="text-sm">Nama Lengkap</label>

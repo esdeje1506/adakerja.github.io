@@ -31,7 +31,7 @@ const RekomendasiWrap = (prop) =>{
         <div>
         <center class="text-2xl font-semibold my-2.5">Rekomendasi Lowongan Populer</center>
           <div className="mx-auto max-w-6xl flex justify-center">
-            <div className="contents">
+            <div className="flex flex-col">
               <div className="my-auto h-10 w-10 rounded-3xl border border-gray-500 text-center text-3xl p-2 hover:bg-slate-200">
               <img src="https://www.svgrepo.com/show/355181/previous.svg" alt="" />
               </div>
@@ -56,7 +56,7 @@ const RekomendasiWrap = (prop) =>{
               })}
               </div>
             </div>
-            <div className="contents">
+            <div className="flex flex-col">
               <div className="my-auto h-10 w-10 rounded-3xl border border-gray-500 text-center text-3xl p-2 hover:bg-slate-200">
                 <img src="https://www.svgrepo.com/show/355139/next.svg" alt="" />
               </div>

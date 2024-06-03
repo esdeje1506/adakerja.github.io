@@ -27,7 +27,7 @@ const Login = () => {
                 </Link>
             </nav>
             <div className="mt-16 w-svw p-1">
-                <div className="mx-auto h-auto w-4/12 rounded-lg border bg-white p-2.5 font-sans shadow-lg">
+                <div className="mx-auto h-auto w-4/12 min-w-64 rounded-lg border bg-white p-2.5 font-sans shadow-lg">
                     <h1 className="m-0 mb-3 text-2xl font-bold">Log-In</h1>
                     <form>
                         <label className="text-sm">Email</label>

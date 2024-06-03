@@ -10,15 +10,15 @@ const Navbar = (prop) => {
     let counterAdd = counter+1
     setCounter(counterAdd%2)
     setY_Visible(counter < 1 ? 'overflow-y-visible':'overflow-y-hidden')
-    
+    //
   }
   return (
     <>
-      <nav className="w-full flex flex-wrap justify-between border bg-white p-2 shadow-md fixed top-0">
+      <nav className="w-full flex flex-wrap justify-between border bg-white p-2 shadow-md sticky top-0">
         <Link to="/">
           <div className="flex">
             <img
-              className="mr-3 h-12 w-fit"
+              className="mr-3 h-12 w-12"
               src={logoWeb}
               alt=""
             />

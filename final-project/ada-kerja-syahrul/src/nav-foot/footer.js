@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className="mt-9 flex justify-between bg-white p-2.5">
                     <div className="my-auto flex">
                         <img
-                            className="mr-3 h-12 w-fit"
+                            className="mr-3 h-12 w-12"
                             src={logoWeb}
                             alt=""
                         />

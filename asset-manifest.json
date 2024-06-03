@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/esdeje1506.github.io/esdeje1506.github.io/static/css/main.9d6239e5.css",
+    "main.js": "/esdeje1506.github.io/esdeje1506.github.io/static/js/main.13d808bc.js",
+    "static/js/453.eb68b1f9.chunk.js": "/esdeje1506.github.io/esdeje1506.github.io/static/js/453.eb68b1f9.chunk.js",
+    "static/media/adker.png": "/esdeje1506.github.io/esdeje1506.github.io/static/media/adker.c73468dec4c0e366110e.png",
+    "index.html": "/esdeje1506.github.io/esdeje1506.github.io/index.html",
+    "main.9d6239e5.css.map": "/esdeje1506.github.io/esdeje1506.github.io/static/css/main.9d6239e5.css.map",
+    "main.13d808bc.js.map": "/esdeje1506.github.io/esdeje1506.github.io/static/js/main.13d808bc.js.map",
+    "453.eb68b1f9.chunk.js.map": "/esdeje1506.github.io/esdeje1506.github.io/static/js/453.eb68b1f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d6239e5.css",
+    "static/js/main.13d808bc.js"
+  ]
+}

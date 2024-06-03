@@ -1,0 +1,78 @@
+{
+  "student-scores": [
+    {
+      "id": "1",
+      "created_at": "2024-05-22 06:15:53",
+      "updated_at": "2024-05-22 06:15:53",
+      "name": "Gede Arya",
+      "course": "React",
+      "score": 80
+    },
+    {
+      "id": "2",
+      "created_at": "2024-05-22 06:33:59",
+      "updated_at": "2024-05-22 06:33:59",
+      "name": "andi",
+      "course": "matematika",
+      "score": 88
+    },
+    {
+      "id": "3",
+      "created_at": "2024-05-22 06:34:04",
+      "updated_at": "2024-05-22 06:34:04",
+      "name": "John",
+      "course": "React",
+      "score": 76
+    },
+    {
+      "id": "4",
+      "created_at": "2024-05-22 06:40:07",
+      "updated_at": "2024-05-22 06:40:07",
+      "name": "test",
+      "course": "react",
+      "score": 80
+    },
+    {
+      "id": "5",
+      "name": "putrisotis",
+      "course": "sastra jepang",
+      "score": "80"
+    },
+    {
+      "id": "7",
+      "name": "anisa fata",
+      "course": "seni rupa",
+      "score": "90"
+    },
+    {
+      "id": "8",
+      "name": "nigarov chrnachenko",
+      "course": "хаковање",
+      "score": "80"
+    },
+    {
+      "id": "9",
+      "name": "Fatija Ulfakovic",
+      "course": "ui ux",
+      "score": "50"
+    },
+    {
+      "id": "10",
+      "name": "Kara Asvadaroglu",
+      "course": "basis data",
+      "score": "70"
+    },
+    {
+      "id": "11",
+      "name": "mavros nerosotis",
+      "course": "pemrograman",
+      "score": "50"
+    },
+    {
+      "id": "12",
+      "name": "ризкија путриковиђ",
+      "course": "basis data",
+      "score": "90"
+    }
+  ]
+}
